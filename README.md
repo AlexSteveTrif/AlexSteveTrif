@@ -22,7 +22,7 @@ These projects are just a snapshot of my dedication to applying data science for
 
 I'm always on the lookout for opportunities to collaborate on projects that aim to make a difference using data analytics. Whether you're a fellow data enthusiast, a healthcare professional, or someone interested in the intersection of data science and healthcare, I'd love to connect and explore how we can work together to create meaningful impact.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/alex-trif-972450185/) | 🔗 [Portfolio](https://alexstevetrif.github.io/)
+🔗 [LinkedIn](https://www.linkedin.com/in/alex-trif-972450185/) | 🔗 [Portfolio](https://alexstevetrif.github.io/) | 🔗 [Email](mailto:alextrif25@gmail.com)
 
 ### Let's Make a Difference Together
 
